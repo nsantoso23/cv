@@ -1,9 +1,9 @@
 head {
-  background-color: #F0ECE2;
+  background-color: #EEE3CB;
 }
 
 body {
-  background-color: #F0ECE2;
+  background-color: #EEE3CB;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 }
 
 h3 {
-  color: #C7B198;
+  color: #967E76;
   font-family: 'Open Sans', sans-serif; 
   font-size: 30px; 
   font-weight: 300; 
@@ -25,10 +25,14 @@ h3 {
 }
 
 p {
-  color: #DFD3C3;
+  color: #D7C0AE;
   font-family: 'Open Sans', sans-serif; 
   font-size: 15px; 
   font-weight: 300; 
   line-height: 32px; 
   margin: 0 0 72px;
+}
+
+img {
+  border-radius: 8px;
 }
